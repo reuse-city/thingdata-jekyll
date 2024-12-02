@@ -1,0 +1,6 @@
+title: ThingData
+description: Openly governed database enabling reuse and repair.
+baseurl: "https://thingdata.org"
+url: "https://thingdata.org"
+markdown: kramdown
+theme: minima
