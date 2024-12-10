@@ -3,7 +3,8 @@ layout: default
 title: ThingData
 ---
 
-# ThingData
+![ThingData](/assets/images/thingdata-logo-sq.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
 
 **Unlocking the Potential of Reuse and Repair**
 
